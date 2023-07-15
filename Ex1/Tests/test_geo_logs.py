@@ -1,6 +1,7 @@
 import pytest
 from Ex1.Program import geo_logs
 
+
 @pytest.mark.parametrize(
     "geo_logs_data, expected", [
         ([
